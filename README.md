@@ -2,7 +2,7 @@
 <img src="https://github.com/HugoaMoraes/IconDigital/assets/102623594/a6c43865-6821-472b-9c05-65878d4e8780" width="200px" />
 </div>
 
-# Desafio_UCB_01
+# Desafio_UCB_02
 
 ### Projeto da aula de programação de APP, Universidade Católica de Brasília.
 
