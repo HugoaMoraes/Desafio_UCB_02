@@ -6,7 +6,7 @@
 
 ### Projeto da aula de programação de APP, Universidade Católica de Brasília.
 
-O projeto consiste na criação de um app de calculadora de juros usando o componente 'RADIO GROUP' onde é inserido um valor e o app automaticamente calcula os juros conforme a seleção, além de um 'switch' que arrendonda que abrevia o número de saída.
+O projeto consiste na criação de um app de calculadora de juros usando o componente 'RADIO GROUP' onde é inserido um valor e o app automaticamente calcula os juros conforme a seleção, além de um 'switch' que abrevia o número de saída.
 
 ## Autor
 
